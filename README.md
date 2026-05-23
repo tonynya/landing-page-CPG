@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28183506/README.md)
 # Chrono Pièces Gabon (CPG) - Landing Page 🚜🔧
 
 Bienvenue sur le dépôt de la landing page officielle de **Chrono Pièces Gabon (CPG)**, votre partenaire de confiance pour la vente de pièces détachées de véhicules industriels et d'engins lourds au Gabon.
